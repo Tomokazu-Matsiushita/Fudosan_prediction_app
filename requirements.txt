@@ -7,5 +7,4 @@ seaborn
 scipy
 numpy
 japanize_matplotlib
-sklearn
 scikit-learn
