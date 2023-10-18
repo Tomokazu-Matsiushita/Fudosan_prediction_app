@@ -1,0 +1,9 @@
+pandas
+joblib
+geopy
+matplotlib
+streamlit
+seaborn
+scipy
+numpy
+japanize_matplotlib
