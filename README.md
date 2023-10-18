@@ -1,0 +1,1 @@
+# Fudosan_prediction_app
