@@ -7,3 +7,4 @@ seaborn
 scipy
 numpy
 japanize_matplotlib
+bs4
