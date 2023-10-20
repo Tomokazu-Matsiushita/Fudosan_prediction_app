@@ -98,6 +98,7 @@ def main():
         #prediction = predict_price(Space, Walk, DaysAgo)
         #prediction = predict_price(Space)
         st.write(f"**予想価格は: {prediction:.2f}万円**")
+        st.balloons()
 
     st.write('都道府県:', prefecture)
     st.write('区:', city)
@@ -146,5 +147,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-st.balloons()
+
 
