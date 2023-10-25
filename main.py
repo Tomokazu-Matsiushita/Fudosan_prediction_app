@@ -132,7 +132,7 @@ def main():
     plt.xlabel('DaysAgo (days)')
     plt.xticks(rotation=90)
     plt.ylabel('Price(万円)')
-    plt.title(f'Price Distribution by Space for {prefecture}, {city}, Type: {type}')
+    plt.title(f'Price Distribution by Days for {prefecture}, {city}, Type: {type}')
     st.pyplot(plt)
 
     # Assuming you have a DataFrame named 'df' and you want to select the 'Latitude' and 'Longitude' columns
